@@ -20,7 +20,7 @@ rust-crypto = "0.2.36"
 
 [dependencies.clippy]
 optional = true
-version = "*"
+version = "0.0.160"
 
 [features]
 default = ["netkeeper", "singlenet", "drcom", "ghca", "srun3k", "ipclient"]
