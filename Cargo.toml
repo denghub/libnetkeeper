@@ -2,6 +2,13 @@
 authors = ["realityone <realityone@me.com>"]
 name = "libnetkeeper"
 version = "0.1.0"
+description = "The netkeeper toolkits write in rust."
+documentation = "https://github.com/realityone/libnetkeeper"
+homepage = "https://github.com/realityone/libnetkeeper"
+readme = "README.md"
+keywords = ["netkeeper", "singlenet", "ghca", "srun3k", "drcom"]
+categories = ["encoding", "cryptography"]
+license-file = "LICENSE"
 
 [dependencies]
 byteorder = "1.1.0"
